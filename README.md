@@ -55,6 +55,9 @@ InOps helps teams manage non-sterile inventory, QA product release, pull-out tra
 
 ---
 
-## App in Action
+## App 
+<img width="1446" height="770" alt="image" src="https://github.com/user-attachments/assets/fcfc6fb2-9d4d-44b2-a2be-864c18680773" />
 
-![InOpsDemo](https://github.com/user-attachments/assets/8a9166ca-5e5c-4e5c-8c81-5fc5e7006d1b)
+
+<img width="1917" height="964" alt="image" src="https://github.com/user-attachments/assets/2cf042e1-6d89-4b11-982a-3f7a84e5a764" />
+
