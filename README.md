@@ -29,3 +29,32 @@
 - Worked with subject-oriented architectures and dimensional data modeling techniques.
 
 **Skills:** Data Modeling, Python, Azure Databricks, Azure Data Lake, SQL, ETL/ELT, Data Warehousing, Git, Analytics
+
+
+# InOps - InSitu Operations
+
+Currently working on **InOps**, an internal operations web app for **InSitu Technologies Inc.** that brings day-to-day manufacturing support tools into one browser-based command center.
+
+InOps helps teams manage non-sterile inventory, QA product release, pull-out transactions, supply monitoring, equipment maintenance, calibration tracking, and operational reporting from the company network. It is built with Python, Flask, and pyodbc, connecting directly to MS Access databases and shared internal resources.
+
+> **PS:** This is a vertical solution built specifically for InSitu Medical's internal infrastructure (network paths, Access databases, employee lists, product catalogue). It will not work out-of-the-box for any other organisation without significant configuration changes.
+
+---
+
+## Quick Overview
+
+- **Web app** runs on one server, accessible from any PC on the network via browser (no installation on client machines)
+- **InOps Command Center** central home screen for inventory, QA actions, supplies, and maintenance workflows
+- **QA Product Release** look up a lot from the Master DB by Lot No or Ref No, review details, and release to inventory with verified-by, quantity, and optional comments
+- **Pull-Out** record stock pull transactions against released lots; remaining quantity auto-decrements
+- **Dashboard** live stats: total lots, available lots, total quantity, low-stock alerts, recent pulls, and per-catalog summary
+- **Inventory Lookup** search and filter current inventory by Lot No or Ref No
+- **Transaction History** full pull-out log, filterable by lot, catalog, or employee
+- **Equipment Maintenance** track maintenance schedules, logs, status, and audit history
+- **Barcode scanner ready** scanner acts as keyboard input with auto-submit on Enter
+
+---
+
+## App in Action
+
+![InOpsDemo](https://github.com/user-attachments/assets/8a9166ca-5e5c-4e5c-8c81-5fc5e7006d1b)
