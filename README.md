@@ -32,6 +32,7 @@ and verification activities on schedule.
 
 **Skills:** Data Modeling, Python, Azure Databricks, Azure Data Lake, SQL, ETL/ELT, Data Warehousing, Git, Analytics
 
+### Currently working on InOps https://github.com/arbabgohar/InSituOperations-InOps 
 
 
 
