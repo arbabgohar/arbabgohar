@@ -47,10 +47,7 @@ InOps helps teams manage non-sterile inventory, QA product release, pull-out tra
 * Python
 * Flask
 * pyodbc
-* Microsoft Access
 * HTML/CSS/JavaScript
-* Windows Server
-* Internal Network File Shares
 
 ---
 
