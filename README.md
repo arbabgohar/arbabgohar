@@ -32,6 +32,9 @@ and verification activities on schedule.
 
 **Skills:** Data Modeling, Python, Azure Databricks, Azure Data Lake, SQL, ETL/ELT, Data Warehousing, Git, Analytics
 
+# PROJECTS 
+
+
 # InOps - InSitu Operations
 
 Currently working on **InOps**, an internal operations web app for **InSitu Technologies Inc.** that brings day-to-day manufacturing support tools into one browser-based command center.
