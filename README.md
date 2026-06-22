@@ -61,11 +61,13 @@ InOps helps teams manage non-sterile inventory, QA product release, pull-out tra
 Central dashboard providing access to inventory, QA actions, production reporting, maintenance, supplies, and calibration workflows.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fcfc6fb2-9d4d-44b2-a2be-864c18680773" width="900">
+  <img src="https://github.com/user-attachments/assets/521da860-c8be-40af-bd41-fa03b9bff9da" width="900">
 </p>
 
+### Script 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/521da860-c8be-40af-bd41-fa03b9bff9da" width="900">
+  <img src="https://github.com/user-attachments/assets/fcfc6fb2-9d4d-44b2-a2be-864c18680773" width="900">
 </p>
 
 ---
