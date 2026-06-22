@@ -3,16 +3,18 @@
 ## Engineering Intern
 **InSitu Technologies Inc.** | Internship  
 **Feb 2025 – Present** | United States | On-site
-
-- Improved legacy C# application (QBApp) to retrieve materials required for product kitting and update the database without manually navigating the full database.
-- Built an automated maintenance tracking workflow using SpecKit Plus, where agents monitor equipment due dates, send Slack alerts to engineers, and automatically update maintenance records.
-- Performed sterilizer validation (IQ, OQ, PQ) for sterilization equipment to ensure compliance with medical device quality and regulatory requirements.
-- Assisted with cleanroom environmental monitoring, including particulate and environmental data tracking to support controlled manufacturing conditions. Displayed data on Minitab statistical software for analysis.
-- Supported equipment validation, calibration tracking, and document control within an electronic Quality Management System (eQMS) (Grand Avenue).
-- Contributed to quality documentation, process verification, and compliance activities aligned with medical device quality standards.
-- Developed automated workflows to track equipment maintenance schedules, send alerts to engineers, and update maintenance records for traceability.
-- Assisted engineering teams with inventory and production data tracking to support manufacturing and quality operations.
-- Familiar with ISO 13485, ISO 9001, and IEC 62304.
+- Wrote and executed roughly 60 manual test cases supporting software V&V under IEC 62304, mapping each case back
+to software requirements and ISO 14971 risk controls to maintain full traceability.
+- Executed performance and functionality test protocols for a Class III intravascular device as part of a 5-year real-time
+aging study, logging results in the eQMS for quality and regulatory review.
+- Led IQ/DQ/OQ/PQ qualification protocols for new cleanroom equipment, scripting test execution steps, documenting
+results, and tracking deviations through closure.
+- Investigated a customer complaint through PMFEA, performed root cause analysis, and documented findings to support
+post-market surveillance reporting.
+- Closed CAPAs for software documentation gaps, including a missing design and development records issue, by
+coordinating fixes across engineering and quality.
+- Collaborated daily with software, systems, and quality engineers to resolve test discrepancies and keep manufacturing
+and verification activities on schedule.
 
 **Skills:** AI Engineering, API Integration, Medical Device Quality Systems, Process Validation, Automation, C#, SQL, Minitab, eQMS, Regulatory Compliance
 
