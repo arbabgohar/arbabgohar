@@ -63,4 +63,50 @@ InOps helps teams manage non-sterile inventory, QA product release, pull-out tra
 
 <img width="1315" height="656" alt="image" src="https://github.com/user-attachments/assets/521da860-c8be-40af-bd41-fa03b9bff9da" />
 
+# non-sterile INV 
+<img width="1913" height="944" alt="image" src="https://github.com/user-attachments/assets/27fa8430-0718-4fab-9fe4-86712f2902c5" />
+
+# SUPPLIES 
+<img width="1904" height="940" alt="image" src="https://github.com/user-attachments/assets/a6589168-8478-4d11-8ba1-3794c4df105c" />
+# PRODUCTION REPORTS
+Filters by:
+- specific Ref#
+- All/Specific product famile
+- Timeline Range
+- Summary 
+<img width="1911" height="940" alt="image" src="https://github.com/user-attachments/assets/16fcb5e2-682d-4ba9-8126-05bc4afb3bef" />
+# CALIBRATION MANAGER
+Features:
+- preview calibration cetificate within app
+- update calibration
+- add equipment
+- export, download certficates and reports
+- audit view with reduced noise
+<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/2150cd07-56b0-4a86-8b6c-5ae7e630bbc0" />
+# EQUIPMENT MAINTENANCE
+Features:
+- download masterlog (downloads as a controlled document)
+- Add equipment
+- Open log, to log entries, edit and update 
+- log trail for best practice
+
+<img width="1911" height="940" alt="image" src="https://github.com/user-attachments/assets/05e98e87-7298-414d-855a-16e445f69a7b" />
+<img width="1898" height="953" alt="image" src="https://github.com/user-attachments/assets/35044129-4689-4c8d-be90-9916e92d3df5" />
+<img width="1676" height="297" alt="image" src="https://github.com/user-attachments/assets/71182d06-76d1-40fb-a9b7-220f8006ca39" />
+# QA ACTIONS
+- Enter Process monitoring & Product monitoring form
+- View trends better
+<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/b8b45ba6-d217-4ad4-bec8-a7de643e75c1" />
+<img width="1651" height="925" alt="image" src="https://github.com/user-attachments/assets/e47d3472-026a-41a2-b4ae-f5054193efae" />
+
+
+
+
+
+
+
+
+
+
+
 
