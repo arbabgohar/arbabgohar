@@ -36,7 +36,7 @@ and verification activities on schedule.
 - InOps https://github.com/arbabgohar/InSituOperations-InOps 
 - Limen (Class B medical software for stent sizing and guide catheter recommendation) 
 
-### Certifications
+
 ## Certifications
 
 - [Medical Software Process Blackbelt](https://udemy-certificate.s3.amazonaws.com/image/UC-ec6c4fc7-6828-4f0b-81ed-aa44840345b7.jpg)
