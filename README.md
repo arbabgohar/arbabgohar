@@ -32,8 +32,9 @@ and verification activities on schedule.
 
 **Skills:** Data Modeling, Python, Azure Databricks, Azure Data Lake, SQL, ETL/ELT, Data Warehousing, Git, Analytics
 
-### Currently working on InOps https://github.com/arbabgohar/InSituOperations-InOps 
-
+### Currently working on:
+- InOps https://github.com/arbabgohar/InSituOperations-InOps 
+- Limen (Class B medical software for stent sizing and guide catheter recommendation) 
 
 
 
