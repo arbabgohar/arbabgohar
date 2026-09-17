@@ -37,14 +37,12 @@ and verification activities on schedule.
 - Limen (Class B medical software for stent sizing and guide catheter recommendation) 
 
 ### Certifications
-- [Medical Software Process Blackbelt
-]([url](https://udemy-certificate.s3.amazonaws.com/image/UC-ec6c4fc7-6828-4f0b-81ed-aa44840345b7.jpg))
-- [Fundamentals of MCP]([url](https://us.aws.cdn.hf.co/xet-bridge-us/682f5d0ff0af4dc8a20649c1/b3beacfa677ce537426a071a3676e0a86df288c8a35db6699f49633b48a07afc?X-Xet-Cas-Uid=public&response-content-type=image%2Fpng&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-07-21.png%3B+filename%3D%222025-07-21.png%22%3B&user_id=public&Expires=1789664887&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjgyZjVkMGZmMGFmNGRjOGEyMDY0OWMxL2IzYmVhY2ZhNjc3Y2U1Mzc0MjZhMDcxYTM2NzZlMGE4NmRmMjg4YzhhMzVkYjY2OTlmNDk2MzNiNDhhMDdhZmNcXD9YLVhldC1DYXMtVWlkPXB1YmxpYyZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyNzIwMjUtMDctMjEucG5nJTNCK2ZpbGVuYW1lJTNEJTIyMjAyNS0wNy0yMS5wbmclMjIlM0ImdXNlcl9pZD1wdWJsaWMiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc4OTY2NDg4N319fV19&Signature=MEUCIGEfEZkNG6EGJKosFOK4WDcDGcd0voZAzJdEwF%7Ek4eHgAiEA3QlMeyUEGrCR-FWc24c%7E8gRQ7mWXBoxgaUri3vowjb0_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256))
-- [AWS Certified Cloud Practitioner]([url](https://www.credly.com/badges/77f2b547-a1b3-4483-a0d3-e8913c598217/linked_in_profile))
-- [Intro to back-end development]([url](https://www.coursera.org/account/accomplishments/verify/RPVNQ87CHRL1?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
+## Certifications
 
-
-
+- [Medical Software Process Blackbelt](https://udemy-certificate.s3.amazonaws.com/image/UC-ec6c4fc7-6828-4f0b-81ed-aa44840345b7.jpg)
+- [Fundamentals of MCP](https://us.aws.cdn.hf.co/xet-bridge-us/682f5d0ff0af4dc8a20649c1/b3beacfa677ce537426a071a3676e0a86df288c8a35db6699f49633b48a07afc?X-Xet-Cas-Uid=public&response-content-type=image%2Fpng&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-07-21.png%3B+filename%3D%222025-07-21.png%22%3B&user_id=public&Expires=1789664887&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjgyZjVkMGZmMGFmNGRjOGEyMDY0OWMxL2IzYmVhY2ZhNjc3Y2U1Mzc0MjZhMDcxYTM2NzZlMGE4NmRmMjg4YzhhMzVkYjY2OTlmNDk2MzNiNDhhMDdhZmNcXD9YLVhldC1DYXMtVWlkPXB1YmxpYyZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyNzIwMjUtMDctMjEucG5nJTNCK2ZpbGVuYW1lJTNEJTIyMjAyNS0wNy0yMS5wbmclMjIlM0ImdXNlcl9pZD1wdWJsaWMiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc4OTY2NDg4N319fV19&Signature=MEUCIGEfEZkNG6EGJKosFOK4WDcDGcd0voZAzJdEwF%7Ek4eHgAiEA3QlMeyUEGrCR-FWc24c%7E8gRQ7mWXBoxgaUri3vowjb0_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/77f2b547-a1b3-4483-a0d3-e8913c598217/linked_in_profile)
+- [Introduction to Back-End Development](https://www.coursera.org/account/accomplishments/verify/RPVNQ87CHRL1)
 
 
 
