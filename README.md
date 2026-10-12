@@ -3,20 +3,20 @@
 ## Engineering Intern
 **InSitu Technologies Inc.** | Internship  
 **Feb 2025 – Present** | United States | On-site
-- Wrote and executed roughly 60 manual test cases supporting software V&V under IEC 62304, mapping each case back
-to software requirements and ISO 14971 risk controls to maintain full traceability.
-- Executed performance and functionality test protocols for a Class III intravascular device as part of a 5-year real-time
-aging study, logging results in the eQMS for quality and regulatory review.
-- Led IQ/DQ/OQ/PQ qualification protocols for new cleanroom equipment, scripting test execution steps, documenting
-results, and tracking deviations through closure.
-- Investigated a customer complaint through PMFEA, performed root cause analysis, and documented findings to support
-post-market surveillance reporting.
-- Closed CAPAs for software documentation gaps, including a missing design and development records issue, by
-coordinating fixes across engineering and quality.
-- Collaborated daily with software, systems, and quality engineers to resolve test discrepancies and keep manufacturing
-and verification activities on schedule.
+- Software risk analysis, estimating probability of harm and risk scores (probability × severity). Authored risk management plans, hazard analyses, and risk controls in Polarion ALM, with end-to-end 
+- Manual and automated test cases aligned with IEC 62304, linking tests to software requirements and risk controls.
+- Testing Class B application using functional, negative, and boundary test cases in TestRail based on identified  hazards. Mapped to Jira Scrum stories and acceptance criteria, and built a requirements traceability matrix connecting requirements, tests, results and hazards.
+- Developed and maintain a central Python application connecting accounting systems, databases, and servers to bring business operations together.
+- Class III medical device validation, statistical sampling, and sample-size calculations for destructive and non-destructive testing.
+- Sterilizer and various equipment(s) IQ/OQ/PQ validation. Packaging validation protocols covering seal strength, bubble, and dye tests, working with QA and engineering teams.
+- Cleanroom environmental monitoring, tracking particulate and environmental data and analyzing results in Minitab.
+- Equipment validation, calibration tracking, document control in an eQMS, process verification, and quality documentation.
+- Automated equipment maintenance reminders and record updates for traceability. Supported inventory and production data tracking for manufacturing and quality 
+- Compliant with ISO 13485, ISO 9001, IEC 62304, ISO 14971, ISO 82304 and FDA cybersecurity guidance.
 
-**Skills:** AI Engineering, API Integration, Medical Device Quality Systems, Process Validation, Automation, C#, SQL, Minitab, eQMS, Regulatory Compliance
+
+
+**Skills:** AI Engineering, API Integration, Medical Device Quality Systems, Process Validation, Automation, C#, SQL, Minitab, eQMS, Regulatory Compliance, TestRail, Polarion ALM, Jira
 
 ---
 
