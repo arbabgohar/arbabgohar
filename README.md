@@ -1,6 +1,6 @@
 # Experience
 
-## Engineering Intern
+## Quality & Software Engineer 
 **InSitu Technologies Inc.** | Internship  
 **Feb 2025 – Present** | United States | On-site
 - Software risk analysis, estimating probability of harm and risk scores (probability × severity). Authored risk management plans, hazard analyses, and risk controls in Polarion ALM, with end-to-end 
