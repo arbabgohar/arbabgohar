@@ -3,17 +3,17 @@
 ## Quality & Software Engineer 
 **InSitu Technologies Inc.** | Internship  
 **Feb 2025 – Present** | United States | On-site
-• Designed and executed manual and automated test cases under IEC 62304, mapping each case to software requirements and risk controls to maintain full requirements-to-test traceability.
-• Wrote and ran automated regression checks using Python and Selenium across a suite of approximately 102 test cases alongside manual test execution to verify software functionality.
-• Executed performance and functionality test protocols for a Class III intravascular device as part of a 5-year real-time aging study, documenting results in the eQMS.
-• Maintained traceability between requirements, test results, and logged defects in the eQMS and bug tracking system to support release readiness review.
-• Investigated a customer complaint using PFMEA, performed root cause analysis, and documented findings in the product monitoring form to support post-market surveillance reporting.
-• Closed CAPAs for software documentation gaps by diagnosing issues and coordinating fixes with engineering and quality teams.
-• Led IQ/OQ/PQ qualification protocols for new cleanroom equipment and sterilizer validation, scripting test steps and tracking
+- Designed and executed manual and automated test cases under IEC 62304, mapping each case to software requirements and risk controls to maintain full requirements-to-test traceability.
+- Wrote and ran automated regression checks using Python and Selenium across a suite of approximately 102 test cases alongside manual test execution to verify software functionality.
+- Executed performance and functionality test protocols for a Class III intravascular device as part of a 5-year real-time aging study, documenting results in the eQMS.
+- Maintained traceability between requirements, test results, and logged defects in the eQMS and bug tracking system to support release readiness review.
+- Investigated a customer complaint using PFMEA, performed root cause analysis, and documented findings in the product monitoring form to support post-market surveillance reporting.
+- Closed CAPAs for software documentation gaps by diagnosing issues and coordinating fixes with engineering and quality teams.
+- IQ/OQ/PQ protocols for new cleanroom equipment and sterilizer validation, scripting test steps and tracking
 deviations through closure; supported packaging validation covering seal strength, bubble, and dye tests.
-• Assisted in Scrum planning for the SaMD design phase, supporting definition of intended use, hazard identification, and drafting of
+- Assisted in Scrum planning for the SaMD design phase, supporting definition of intended use, hazard identification, and drafting of
 the risk management plan under ISO 14971.
-• Supported computer system validation (CSV) across the software lifecycle using the V-model, performing SOUP validation and
+- Supported computer system validation (CSV) across the software lifecycle using the V-model, performing SOUP validation and
 ensuring compliance with IEC 62304, ISO 82304, and FDA cybersecurity guidance.
 
 
