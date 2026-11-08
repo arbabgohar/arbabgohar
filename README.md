@@ -3,17 +3,18 @@
 ## Quality & Software Engineer 
 **InSitu Technologies Inc.** | Internship  
 **Feb 2025 – Present** | United States | On-site
-- Software risk analysis, estimating probability of harm and risk scores (probability × severity). Authored risk management plans, hazard analyses, and risk controls in Polarion ALM, with end-to-end 
-- Manual and automated test cases aligned with IEC 62304, linking tests to software requirements and risk controls.
-- Testing Class B application using functional, negative, and boundary test cases in TestRail based on identified  hazards. Mapped to Jira Scrum stories and acceptance criteria, and built a requirements traceability matrix connecting requirements, tests, results and hazards.
-- Developed and maintain a central Python application connecting accounting systems, databases, and servers to bring business operations together.
-- Class III medical device validation, statistical sampling, and sample-size calculations for destructive and non-destructive testing.
-- Sterilizer and various equipment(s) IQ/OQ/PQ validation. Packaging validation protocols covering seal strength, bubble, and dye tests, working with QA and engineering teams.
-- Cleanroom environmental monitoring, tracking particulate and environmental data and analyzing results in Minitab.
-- Equipment validation, calibration tracking, document control in an eQMS, process verification, and quality documentation.
-- Automated equipment maintenance reminders and record updates for traceability. Supported inventory and production data tracking for manufacturing and quality 
-- Compliant with ISO 13485, ISO 9001, IEC 62304, ISO 14971, ISO 82304 and FDA cybersecurity guidance.
-
+• Designed and executed manual and automated test cases under IEC 62304, mapping each case to software requirements and risk controls to maintain full requirements-to-test traceability.
+• Wrote and ran automated regression checks using Python and Selenium across a suite of approximately 102 test cases alongside manual test execution to verify software functionality.
+• Executed performance and functionality test protocols for a Class III intravascular device as part of a 5-year real-time aging study, documenting results in the eQMS.
+• Maintained traceability between requirements, test results, and logged defects in the eQMS and bug tracking system to support release readiness review.
+• Investigated a customer complaint using PFMEA, performed root cause analysis, and documented findings in the product monitoring form to support post-market surveillance reporting.
+• Closed CAPAs for software documentation gaps by diagnosing issues and coordinating fixes with engineering and quality teams.
+• Led IQ/OQ/PQ qualification protocols for new cleanroom equipment and sterilizer validation, scripting test steps and tracking
+deviations through closure; supported packaging validation covering seal strength, bubble, and dye tests.
+• Assisted in Scrum planning for the SaMD design phase, supporting definition of intended use, hazard identification, and drafting of
+the risk management plan under ISO 14971.
+• Supported computer system validation (CSV) across the software lifecycle using the V-model, performing SOUP validation and
+ensuring compliance with IEC 62304, ISO 82304, and FDA cybersecurity guidance.
 
 
 **Skills:** AI Engineering, API Integration, Medical Device Quality Systems, Process Validation, Automation, C#, SQL, Minitab, eQMS, Regulatory Compliance, TestRail, Polarion ALM, Jira
@@ -33,8 +34,9 @@
 **Skills:** Data Modeling, Python, Azure Databricks, Azure Data Lake, SQL, ETL/ELT, Data Warehousing, Git, Analytics
 
 ### Currently working on:
-- ERP https://github.com/arbabgohar/InSituOperations-InOps 
-- Limen (Class B medical software for stent sizing and guide catheter recommendation) 
+- ERP https://github.com/insitutech/ERP
+- Limen (Class B medical software for stent sizing and guide catheter recommendation)
+- Agent Triage for complaint handling 
 
 
 ## Certifications
