@@ -1,6 +1,6 @@
 # Experience
 
-## Quality & Software Engineer 
+## Quality & Software V&V Engineer 
 **InSitu Technologies Inc.** | Internship  
 **Feb 2025 – Present** | United States | On-site
 - Designed and executed manual and automated test cases under IEC 62304, mapping each case to software requirements and risk controls to maintain full requirements-to-test traceability.
