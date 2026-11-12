@@ -17,7 +17,7 @@ the risk management plan under ISO 14971.
 ensuring compliance with IEC 62304, ISO 82304, and FDA cybersecurity guidance.
 
 
-**Skills:** AI Engineering, API Integration, Medical Device Quality Systems, Process Validation, Automation, C#, SQL, Minitab, eQMS, Regulatory Compliance, TestRail, Polarion ALM, Jira
+**Skills:** AI Engineering, API Integration, Medical Device Quality Systems, Process Validation, Automation, C#, SQL, Minitab, eQMS, Regulatory Compliance, TestRail, Polarion ALM, Jira, HIPPA compliance, HL7
 
 ---
 
