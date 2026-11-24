@@ -33,6 +33,9 @@ ensuring compliance with IEC 62304, ISO 82304, and FDA cybersecurity guidance.
 
 **Skills:** Data Modeling, Python, Azure Databricks, Azure Data Lake, SQL, ETL/ELT, Data Warehousing, Git, Analytics
 
+### Education:
+Mankato State University, Minnesota                                                           _expected December 2026_
+
 ### Currently working on:
 - ERP INSITU
 - Limen (Class B medical software for stent sizing and guide catheter recommendation)
